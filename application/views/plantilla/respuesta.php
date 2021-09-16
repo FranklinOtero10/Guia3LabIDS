@@ -1,0 +1,1 @@
+<h2>La respuesta es: <?php echo $resp ?></h2>
